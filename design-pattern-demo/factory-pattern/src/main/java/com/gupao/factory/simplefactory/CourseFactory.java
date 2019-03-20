@@ -1,21 +1,23 @@
 package com.gupao.factory.simplefactory;
 
 import com.gupao.factory.ICourse;
+import com.gupao.factory.JavaCourse;
+import com.gupao.factory.PythonCourse;
 
 /**
- * Created by Tom.
+ *
  */
 public class CourseFactory {
 
-//    public ICourse create(String name){
-//        if("java".equals(name)){
-//            return new JavaCourse();
-//        }else if("python".equals(name)){
-//            return new PythonCourse();
-//        }else {
-//            return null;
-//        }
-//    }
+    public ICourse create(String name){
+        if("java".equals(name)){
+            return new JavaCourse();
+        }else if("python".equals(name)){
+            return new PythonCourse();
+        }else {
+            return null;
+        }
+    }
 
 //    public ICourse create(String className){
 //        try {

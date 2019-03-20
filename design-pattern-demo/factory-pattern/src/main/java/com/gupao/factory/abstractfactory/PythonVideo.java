@@ -1,7 +1,7 @@
 package com.gupao.factory.abstractfactory;
 
 /**
- * Created by Tom.
+ *
  */
 public class PythonVideo implements IVideo {
     public void record() {

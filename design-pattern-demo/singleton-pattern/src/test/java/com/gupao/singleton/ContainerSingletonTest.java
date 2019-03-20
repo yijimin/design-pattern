@@ -3,7 +3,7 @@ package com.gupao.singleton;
 import com.gupaoedu.vip.pattern.singleton.register.ContainerSingleton;
 
 /**
- * Created by Tom.
+ *
  */
 public class ContainerSingletonTest {
     public static void main(String[] args) {

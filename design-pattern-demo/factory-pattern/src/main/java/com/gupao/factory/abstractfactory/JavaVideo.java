@@ -2,7 +2,7 @@ package com.gupao.factory.abstractfactory;
 
 
 /**
- * Created by Tom on.
+ *  on.
  */
 public class JavaVideo implements IVideo {
     public void record() {

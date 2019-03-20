@@ -3,7 +3,7 @@ package com.gupao.singleton;
 import java.util.concurrent.*;
 
 /**
- * Created by Tom.
+ *
  */
 public class ConcurrentExecutor {
     /**

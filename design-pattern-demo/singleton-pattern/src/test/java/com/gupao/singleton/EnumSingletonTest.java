@@ -9,7 +9,7 @@ import java.io.ObjectOutputStream;
 import java.lang.reflect.Constructor;
 
 /**
- * Created by Tom.
+ *
  */
 public class EnumSingletonTest {
 //    public static void main(String[] args) {

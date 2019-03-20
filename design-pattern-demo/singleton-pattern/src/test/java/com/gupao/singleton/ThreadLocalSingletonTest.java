@@ -4,7 +4,7 @@ package com.gupao.singleton;
 import com.gupao.singleton.threadlocal.ThreadLocalSingleton;
 
 /**
- * Created by Tom.
+ *
  */
 public class ThreadLocalSingletonTest {
     public static void main(String[] args) {

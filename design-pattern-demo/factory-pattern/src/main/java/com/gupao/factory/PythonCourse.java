@@ -1,7 +1,7 @@
 package com.gupao.factory;
 
 /**
- * Created by Tom.
+ *
  */
 public class PythonCourse implements ICourse {
 

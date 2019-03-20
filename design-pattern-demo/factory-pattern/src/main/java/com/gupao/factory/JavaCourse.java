@@ -2,7 +2,7 @@ package com.gupao.factory;
 
 
 /**
- * Created by Tom.
+ *
  */
 public class JavaCourse implements ICourse {
 

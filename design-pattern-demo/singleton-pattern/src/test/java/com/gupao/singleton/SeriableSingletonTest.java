@@ -10,7 +10,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
 /**
- * Created by Tom.
+ *
  */
 public class SeriableSingletonTest {
     public static void main(String[] args) {

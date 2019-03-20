@@ -1,7 +1,7 @@
 package com.gupao.singleton.hungry;
 
 /**
- * Created by Tom.
+ *
  */
 
 //饿汉式静态块单例

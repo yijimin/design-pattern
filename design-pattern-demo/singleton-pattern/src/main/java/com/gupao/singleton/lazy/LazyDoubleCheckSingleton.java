@@ -1,7 +1,7 @@
 package com.gupao.singleton.lazy;
 
 /**
- * Created by Tom.
+ *
  */
 // 在对象为空时在进行加锁
 public class LazyDoubleCheckSingleton {

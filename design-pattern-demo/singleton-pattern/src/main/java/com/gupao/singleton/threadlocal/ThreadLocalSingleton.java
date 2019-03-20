@@ -1,7 +1,7 @@
 package com.gupao.singleton.threadlocal;
 
 /**
- * Created by Tom.
+ *
  */
 public class ThreadLocalSingleton {
     private static final ThreadLocal<ThreadLocalSingleton> threadLocalInstance =

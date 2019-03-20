@@ -4,7 +4,7 @@ package com.gupao.factory.factorymethod;
 import com.gupao.factory.ICourse;
 
 /**
- * Created by Tom.
+ *
  */
 public class FactoryMethodTest {
 

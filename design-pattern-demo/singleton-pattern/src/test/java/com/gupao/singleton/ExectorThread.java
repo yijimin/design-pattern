@@ -4,7 +4,7 @@ import com.gupaoedu.vip.pattern.singleton.lazy.LazySimpleSingleton;
 import com.gupaoedu.vip.pattern.singleton.threadlocal.ThreadLocalSingleton;
 
 /**
- * Created by Tom.
+ *
  */
 public class ExectorThread implements Runnable{
     @Override

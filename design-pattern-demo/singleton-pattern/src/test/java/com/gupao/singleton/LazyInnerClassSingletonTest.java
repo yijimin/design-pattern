@@ -5,7 +5,7 @@ import com.gupaoedu.vip.pattern.singleton.lazy.LazyInnerClassSingleton;
 import java.lang.reflect.Constructor;
 
 /**
- * Created by Tom.
+ *
  */
 public class LazyInnerClassSingletonTest {
 

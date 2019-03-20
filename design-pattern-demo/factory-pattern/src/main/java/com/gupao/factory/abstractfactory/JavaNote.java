@@ -2,7 +2,7 @@ package com.gupao.factory.abstractfactory;
 
 /**
  * Java笔记
- * Created by Tom
+ *
  */
 public class JavaNote implements INote {
 

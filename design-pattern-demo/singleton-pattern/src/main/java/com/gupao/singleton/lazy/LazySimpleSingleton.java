@@ -1,7 +1,7 @@
 package com.gupao.singleton.lazy;
 
 /**
- * Created by Tom.
+ *
  */
 
 //懒汉式单例

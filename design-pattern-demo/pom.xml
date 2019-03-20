@@ -11,6 +11,14 @@
   <modules>
     <module>singleton-pattern</module>
       <module>factory-pattern</module>
+      <module>prototype-pattern</module>
+      <module>proxy-pattern</module>
+      <module>delegate-pattern</module>
+      <module>strategy-pattern</module>
+      <module>template-pattern</module>
+      <module>adapter-pattern</module>
+      <module>decorator-pattern</module>
+    <module>observer-pattern</module>
   </modules>
 
   <name>design-pattern</name>

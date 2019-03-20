@@ -6,7 +6,7 @@ import com.gupao.factory.JavaCourse;
 
 /**
  * 小作坊式的工厂模型
- * Created by Tom.
+ *
  */
 public class SimpleFactoryTest {
 

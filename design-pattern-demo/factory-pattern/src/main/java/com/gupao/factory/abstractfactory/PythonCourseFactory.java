@@ -1,7 +1,7 @@
 package com.gupao.factory.abstractfactory;
 
 /**
- * Created by Tom.
+ *
  */
 public class PythonCourseFactory implements CourseFactory {
 
