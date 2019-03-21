@@ -1,7 +1,7 @@
 package com.gupao.decorator.battercake.v1;
 
 /**
- * Created by Tom on 2019/3/17.
+ *
  */
 public class BattercakeWithEgg extends Battercake{
     @Override

@@ -1,7 +1,7 @@
 package com.gupao.strategy.pay.payport;
 
 /**
- * Created by Tom.
+ *
         */
 public class WechatPay extends Payment {
 

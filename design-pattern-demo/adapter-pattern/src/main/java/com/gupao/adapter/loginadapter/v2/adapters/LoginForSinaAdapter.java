@@ -4,7 +4,7 @@ package com.gupao.adapter.loginadapter.v2.adapters;
 import com.gupao.adapter.loginadapter.ResultMsg;
 
 /**
- * Created by Tom.
+ *
  */
 public class LoginForSinaAdapter implements LoginAdapter {
     public boolean support(Object adapter) {

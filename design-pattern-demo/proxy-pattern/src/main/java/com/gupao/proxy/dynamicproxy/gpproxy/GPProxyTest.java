@@ -4,7 +4,7 @@ import com.gupao.proxy.Person;
 import com.gupao.proxy.dynamicproxy.jdkproxy.Customer;
 
 /**
- * Created by Tom on 2019/3/10.
+ *  on 2019/3/10.
  */
 public class GPProxyTest {
 

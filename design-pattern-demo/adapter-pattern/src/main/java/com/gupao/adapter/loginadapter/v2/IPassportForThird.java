@@ -5,7 +5,7 @@ import com.gupao.adapter.loginadapter.ResultMsg;
 
 /**
  * 只扩展 第三方登录兼容接口
- * Created by Tom on 2019/3/16.
+ *  on 2019/3/16.
  */
 public interface IPassportForThird {
 

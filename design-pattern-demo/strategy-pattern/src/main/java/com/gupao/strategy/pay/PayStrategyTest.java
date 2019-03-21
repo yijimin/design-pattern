@@ -9,7 +9,7 @@ import java.util.Comparator;
 import java.util.TreeMap;
 
 /**
- * Created by Tom.
+ *
  */
 public class PayStrategyTest {
 

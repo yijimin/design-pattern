@@ -4,7 +4,7 @@ package com.gupao.proxy.staticproxy;
 import com.gupao.proxy.Person;
 
 /**
- * Created by Tom on 2019/3/10.
+ *  on 2019/3/10.
  */
 public class Father implements Person {
     private Son person;

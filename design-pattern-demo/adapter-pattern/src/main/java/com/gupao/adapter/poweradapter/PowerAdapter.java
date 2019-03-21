@@ -1,7 +1,7 @@
 package com.gupao.adapter.poweradapter;
 
 /**
- * Created by Tom on 2019/3/16.
+ *  on 2019/3/16.
  */
 public class PowerAdapter implements DC5 {
 

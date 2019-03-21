@@ -2,7 +2,7 @@ package com.gupao.adapter.loginadapter.v2;
 
 
 /**
- * Created by Tom.
+ *
  */
 public class PassportTest {
 

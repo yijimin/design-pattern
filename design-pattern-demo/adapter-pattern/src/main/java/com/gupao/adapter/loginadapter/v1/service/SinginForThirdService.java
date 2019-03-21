@@ -4,7 +4,7 @@ package com.gupao.adapter.loginadapter.v1.service;
 import com.gupao.adapter.loginadapter.ResultMsg;
 
 /**
- * Created by Tom on 2019/3/16.
+ *  on 2019/3/16.
  */
 public class SinginForThirdService extends SiginService {
 

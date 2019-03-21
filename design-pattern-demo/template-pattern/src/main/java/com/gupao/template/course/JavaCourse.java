@@ -1,7 +1,7 @@
 package com.gupao.template.course;
 
 /**
- * Created by Tom.
+ *
  */
 public class JavaCourse extends NetworkCourse {
     void checkHomework() {

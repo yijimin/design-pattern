@@ -4,7 +4,7 @@ package com.gupao.adapter.loginadapter.v1;
 import com.gupao.adapter.loginadapter.v1.service.SinginForThirdService;
 
 /**
- * Created by Tom on 2019/3/16.
+ *  on 2019/3/16.
  */
 public class SiginForThirdServiceTest {
     public static void main(String[] args) {

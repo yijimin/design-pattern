@@ -29,6 +29,7 @@
       <module name="prototype-pattern" target="1.7" />
       <module name="proxy-pattern" target="1.7" />
       <module name="singleton-pattern" target="1.7" />
+      <module name="spring-pattern" target="1.5" />
       <module name="strategy-pattern" target="1.7" />
       <module name="template-pattern" target="1.7" />
     </bytecodeTargetLevel>

@@ -1,7 +1,7 @@
 package com.gupao.adapter.loginadapter;
 
 /**
- * Created by Tom.
+ *
  */
 public class ResultMsg {
 

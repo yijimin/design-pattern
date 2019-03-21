@@ -5,7 +5,7 @@ import com.gupao.template.jdbc.dao.MemberDao;
 import java.util.List;
 
 /**
- * Created by Tom.
+ *
  */
 public class MemberDaoTest {
 

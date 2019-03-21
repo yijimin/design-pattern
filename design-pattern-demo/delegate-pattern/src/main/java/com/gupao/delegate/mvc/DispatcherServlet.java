@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * 相当于是项目经理的角色
- * Created by Tom.
+ *
  */
 public class DispatcherServlet extends HttpServlet{
 

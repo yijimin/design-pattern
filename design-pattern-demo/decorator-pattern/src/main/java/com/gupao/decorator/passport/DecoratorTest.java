@@ -1,15 +1,13 @@
 package com.gupao.decorator.passport;
 
-import com.gupaoedu.vip.pattern.decorator.passport.old.SigninService;
-import com.gupaoedu.vip.pattern.decorator.passport.upgrade.ISiginForThirdService;
-import com.gupaoedu.vip.pattern.decorator.passport.upgrade.SiginForThirdService;
-import org.springframework.cache.transaction.TransactionAwareCacheDecorator;
-import org.springframework.http.server.reactive.HttpHeadResponseDecorator;
 
-import java.io.BufferedReader;
+import com.gupao.decorator.passport.old.SigninService;
+import com.gupao.decorator.passport.upgrade.ISiginForThirdService;
+import com.gupao.decorator.passport.upgrade.SiginForThirdService;
+
 
 /**
- * Created by Tom on 2019/3/17.
+ *
  */
 public class DecoratorTest {
 

@@ -1,7 +1,7 @@
 package com.gupao.observer.events.mouseevent;
 
 /**
- * Created by Tom.
+ *
  */
 public interface MouseEventType {
     //单击

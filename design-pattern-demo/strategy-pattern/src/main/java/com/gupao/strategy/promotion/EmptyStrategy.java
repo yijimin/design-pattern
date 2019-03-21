@@ -1,7 +1,7 @@
 package com.gupao.strategy.promotion;
 /**
  * 无优惠
- * Created by Tom
+ *
  */
 public class EmptyStrategy implements PromotionStrategy {
     public void doPromotion() {

@@ -1,7 +1,7 @@
 package com.gupao.template.course;
 
 /**
- * Created by Tom on 2019/3/16.
+ *  on 2019/3/16.
  */
 public class BigDataCourse extends NetworkCourse {
 

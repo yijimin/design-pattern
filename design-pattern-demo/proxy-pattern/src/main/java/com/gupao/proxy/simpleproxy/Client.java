@@ -1,7 +1,7 @@
 package com.gupao.proxy.simpleproxy;
 
 /**
- * Created by Tom.
+ *
  */
 public class Client {
 

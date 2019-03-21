@@ -5,7 +5,7 @@ import com.gupao.adapter.loginadapter.Member;
 import com.gupao.adapter.loginadapter.ResultMsg;
 
 /**
- * Created by Tom.
+ *
  */
 public class SiginService {
 

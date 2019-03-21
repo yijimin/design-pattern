@@ -1,16 +1,17 @@
 package com.gupao.decorator.passport.upgrade;
 
+import com.gupao.decorator.passport.old.SigninService;
 import com.gupaoedu.vip.pattern.decorator.passport.old.ISigninService;
 import com.gupaoedu.vip.pattern.decorator.passport.old.ResultMsg;
 
 /**
- * Created by Tom on 2019/3/17.
+ *
  */
 public class SiginForThirdService implements ISiginForThirdService {
 
     private ISigninService signinService;
 
-    public SiginForThirdService(ISigninService signinService) {
+    public SiginForThirdService(SigninService signinService) {
         this.signinService = signinService;
     }
 

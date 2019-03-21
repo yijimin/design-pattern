@@ -1,7 +1,7 @@
 package com.gupao.decorator.passport.old;
 
 /**
- * Created by Tom.
+ *
  */
 public class Member {
 
